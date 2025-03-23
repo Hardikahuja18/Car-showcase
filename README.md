@@ -1,6 +1,6 @@
 #  Car Showcase  
 
-A sleek and interactive website showcasing high-performance luxury cars, including Porsche, Lamborghini, McLaren, BMW, and more. Users can explore various car models and view key performance details with a dynamic background image.
+A sleek and interactive website showcasing high-performance luxury cars, including  Lamborghini, Audi, BMW, and more. Users can explore various car models and view key performance details with a dynamic background image.
 
 ## 🌟 Features    
 - Dynamic background image updates based on selection  
